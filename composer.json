@@ -1,0 +1,39 @@
+{
+    "name": "justoverclock/adsense-manager",
+    "description": "Adsense Manager for Flarum",
+    "keywords": [
+        "adsense between post",
+        "adsense"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0"
+    },
+    "require-dev": {
+        "flarum/testing": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\AdsenseManager\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Adsense Manager",
+            "category": "",
+            "icon": {
+                "name": "fas fa-search-dollar",
+                "backgroundColor": "green",
+                "color": "white"
+            }
+        }
+    }
+}
