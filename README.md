@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of justoverclock/adsense-manager.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/adsense-manager) or the [upstream repository](https://github.com/justoverclockl/adsense-manager).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.0.0`
+**10** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.2) |
+| `0.1.4` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.7) |
+| `0.1.8` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.8) |
+| `0.1.9` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.1.9) |
+| `0.2.0` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-adsense-manager/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/justoverclock-adsense-manager.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-adsense-manager.json)
 
